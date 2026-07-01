@@ -69,8 +69,6 @@
 
 ---
 
-## 📫 Contact Me
-
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
