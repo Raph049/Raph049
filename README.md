@@ -60,7 +60,6 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Raph049&theme=onedark&no-frame=true&margin-w=10&row=1&column=6"/>
 
 </p>
 
