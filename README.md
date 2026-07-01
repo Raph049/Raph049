@@ -71,9 +71,29 @@
 
 ## 📫 Contact Me
 
-📧 **Email:** **[phiridalitso049@gmail.com](mailto:phiridalitso049@gmail.com)**
+<h2>🌐 Connect With Me</h2>
 
-💼 **GitHub:** https://github.com/Raph049
+<p align="center">
+  <a href="https://github.com/Raph049">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dalitso-phiri-964364314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://tryhackme.com/p/Raph049">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+
+  <a href="https://app.hackthebox.com/profile/Raph049">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  </a>
+
+  <a href="mailto:phiridalitso049@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
