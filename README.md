@@ -37,7 +37,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,bash," />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 ## 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux" />
 </p>
 
 ---
@@ -95,33 +95,27 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🍯 Honeypot
-> Security monitoring solution for detecting malicious activities.
+> A security monitoring solution designed to detect, log, and analyze malicious activities and unauthorized access attempts.
 
-### 🔐 Cybersecurity Tools
-> Collection of penetration testing and security automation scripts.
+### 🛡️ Web Vulnerability Scanner
+> An automated security scanner that identifies common web application vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), insecure HTTP headers, exposed directories, and common security misconfigurations.
 
 ### 🌐 Full-Stack Applications
-> Modern scalable applications built with Next.js, Node.js, Express and MongoDB.
+> Modern, scalable web applications built with **Angular**, **Node.js**, **Express**, and **MongoDB**, focusing on performance, usability, and maintainability.
+
+### 🔐 Cybersecurity Tools
+> A collection of penetration testing, reconnaissance, and security automation tools for vulnerability assessment and defensive security.
 
 ### 📊 Data Analytics
-> Python-powered analytics and visualization projects.
+> Python-powered analytics, automation, and visualization projects that transform raw data into actionable insights.
 
 ---
 
 # 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raph049&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raph049&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 <p align="center">
 
@@ -141,7 +135,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -150,6 +144,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 </p>
 
 ---
+-->
 
 # 🌐 Connect With Me
 
