@@ -45,7 +45,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 ## 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,html,css,typescript,bootstrap" />
 </p>
 
 ---
