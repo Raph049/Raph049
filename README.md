@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raph049</h1>
 
 <h3 align="center">
-💻 Software Developer • 🔐 Cybersecurity Enthusiast • 🚀 Lifelong Learner
+• Software Developer •  Cybersecurity Enthusiast •  Lifelong Learner
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 🔐 Passionate about Cybersecurity & Ethical Hacking
 - 🍯 Building Honeypots and Security Monitoring Tools
