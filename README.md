@@ -199,10 +199,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ---
 
-# 💡 Quote
+# 🥷 Quote
 
-> *"Security is not a product, but a process."*  
-> **— Bruce Schneier**
+<!-- QUOTE_START -->
+
+> Loading quote...
+
+<!-- QUOTE_END -->
 
 ---
 
