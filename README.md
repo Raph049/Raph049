@@ -1,8 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Raph049</h1>-->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,60:312e81,100:06b6d4&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Raph049&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&" alt="Hi 👋, I'm Raph049" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,30:1e3a8a,60:312e81,100:06b6d4&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Raph049&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Hi 👋, I'm Raph049" />
 </p>
-
 
 <h3 align="center">
 • Software Developer •  Cybersecurity Enthusiast •  Lifelong Learner
