@@ -199,14 +199,23 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ---
 
-# 🥷 Quote
-
 <!-- QUOTE_START -->
 
-> "Wherever there is light, there are also shadows."  
-> **— Madara Uchiha**
+# 🥷 SYSTEM MESSAGE // DAILY WISDOM
 
-<!-- QUOTE_END -->
+```text
+╔══════════════════════════════════════════════╗
+
+        INITIALIZING SHINOBI PROTOCOL...
+
+        <!-- QUOTE_START -->
+
+        Loading wisdom...
+
+        <!-- QUOTE_END -->
+
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
@@ -214,6 +223,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ### ⭐ Thanks for visiting!
 
-*"Building secure software, one commit at a time."*
+*"Code. Learn. Secure. Repeat."*
 
 </p>
