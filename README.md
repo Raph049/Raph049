@@ -199,28 +199,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ---
 
-# 🥷 SYSTEM MESSAGE // DAILY WISDOM
+# 🥷 Quote
 
-```text
-╔══════════════════════════════════════════════╗
+<!-- QUOTE_START -->
 
-        INITIALIZING SHINOBI PROTOCOL...
-
-        <!-- QUOTE_START -->
-
-
-"Those who cannot acknowledge themselves will eventually fail."
-
-— Itachi Uchiha
-
-STATUS  : ONLINE
-MISSION : BUILD • LEARN • SECURE
-
+> Loading quote...
 
 <!-- QUOTE_END -->
-
-╚══════════════════════════════════════════════╝
-```
 
 ---
 
@@ -228,6 +213,7 @@ MISSION : BUILD • LEARN • SECURE
 
 ### ⭐ Thanks for visiting!
 
-*"Code. Learn. Secure. Repeat."*
+*"Building secure software, one commit at a time."*
 
 </p>
+
