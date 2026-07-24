@@ -47,6 +47,8 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 # 🛠 Tech Stack
 
+---
+
 ## 💻 Programming Languages
 
 <p align="center">
