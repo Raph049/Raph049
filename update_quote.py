@@ -7,9 +7,14 @@ with open(".github/quote/naruto-quotes.json", "r", encoding="utf-8") as f:
 
 quote = random.choice(quotes)
 
-new_quote = f'''> "{quote["quote"]}"  
-> **— {quote["author"]}**'''
+new_quote = f'''
+"{quote["quote"]}"
 
+— {quote["author"]}
+
+STATUS  : ONLINE
+MISSION : BUILD • LEARN • SECURE
+'''
 # Read README
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
