@@ -23,16 +23,26 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
-#  About Me
+## 🎯 **About Me**
 
-- 🔐 Passionate about Cybersecurity & Ethical Hacking
-- 🍯 Building Honeypots and Security Monitoring Tools
-- 🌐 Interested in Cloud Security & DevSecOps
-- 💻 Full-Stack Web Developer
-- 🐧 Linux Enthusiast
-- 🚀 Constantly learning modern technologies
-- 🎯 Goal: Become a Security Engineer & Full-Stack Developer
-
+    ```python
+     class Raph049:
+    def __init__(self):
+        self.name = "Raph049"
+        self.role = "Software Developer & Cybersecurity Enthusiast"
+        self.location = "🌍 Zambia"
+        self.interests = [
+            "🔐 Cybersecurity & Ethical Hacking",
+            "🍯 Honeypots & Security Monitoring",
+            "🌐 Cloud Security & DevSecOps",
+            "💻 Full-Stack Web Development",
+            "🐧 Linux Enthusiast"
+        ]
+        self.goal = "Become a Security Engineer & Full-Stack Developer"
+        self.motto = "Building secure software, one commit at a time."
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something secure together!")
 ---
 
 # 🛠 Tech Stack
