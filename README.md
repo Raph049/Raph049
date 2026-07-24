@@ -199,18 +199,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ---
 
-<!-- QUOTE_START -->
+# 🥷 SYSTEM MESSAGE // DAILY WISDOM
 
+```text
+╔══════════════════════════════════════════════╗
 
-"A smile is the easiest way out of a difficult situation."
+        INITIALIZING SHINOBI PROTOCOL...
 
-— Sakura Haruno
+        <!-- QUOTE_START -->
 
-STATUS  : ONLINE
-MISSION : BUILD • LEARN • SECURE
+        Loading wisdom...
 
-
-<!-- QUOTE_END -->
+        <!-- QUOTE_END -->
 
 ╚══════════════════════════════════════════════╝
 ```
