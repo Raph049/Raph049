@@ -203,8 +203,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "When people are protecting something truly precious to them, they truly can become as strong as they need to be."  
-> **— Haku**
+> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
