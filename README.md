@@ -203,7 +203,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> Loading quote...
+> "Wherever there is light, there are also shadows."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
