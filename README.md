@@ -88,6 +88,15 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
+
+## 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
+
+---
+
 ## 🔐 Cybersecurity
 
 <p align="center">
@@ -101,13 +110,6 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 ---
 
-## 🧰 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
-</p>
-
----
 
 ## 📂 Featured Projects
 
