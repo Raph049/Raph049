@@ -141,7 +141,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 <div align="center">
 
 <img width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_color=05080F&color=D1D5DB&line=00F5FF&point=3B82F6&area=true&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_color=05080F&color=D1D5DB&line=00F5FF&point=3B82F6&area=true&hide_border=true&v=1"/>
 
 </div>
 
