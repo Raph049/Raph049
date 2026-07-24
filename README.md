@@ -117,12 +117,12 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 # 📈 GitHub Statistics
 
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=Raph049&theme=transparent&hide_border=true&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6"/>
 
-</p>
+</div>
 
 ---
 
