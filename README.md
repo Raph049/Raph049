@@ -199,7 +199,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 ---
 
-# 🥷 Quote
+# 🥷 Today's Quote
 
 <!-- QUOTE_START -->
 
