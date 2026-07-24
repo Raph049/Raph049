@@ -202,15 +202,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 <!-- QUOTE_START -->
 
 
-"The pain of being alone is completely out of this world."
+# 🥷 SYSTEM MESSAGE // DAILY WISDOM
 
-— Gaara
+```text
+╔══════════════════════════════════════════════╗
 
-STATUS  : ONLINE
-MISSION : BUILD • LEARN • SECURE
+        INITIALIZING SHINOBI PROTOCOL...
 
+        <!-- QUOTE_START -->
 
-<!-- QUOTE_END -->
+        Loading wisdom...
+
+        <!-- QUOTE_END -->
 
 ╚══════════════════════════════════════════════╝
 ```
