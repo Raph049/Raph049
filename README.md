@@ -13,9 +13,9 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 </p>
 
 <p align="center">
-  <img style="border-radius: 15px;" src="https://komarev.com/ghpvc/?username=Raph049&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
-  <img style="border-radius: 15px;" src="https://img.shields.io/github/followers/Raph049?style=for-the-badge&logo=github&color=00FFFF" />
-  <img style="border-radius: 15px;" src="https://img.shields.io/github/stars/Raph049?style=for-the-badge&logo=github&color=FF00FF" />
+<img src="https://komarev.com/ghpvc/?username=Raph049&label=Profile+Views&color=8A2BE2&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Raph049?style=flat-square&logo=github&color=00FFFF" />
+<img src="https://img.shields.io/github/stars/Raph049?style=flat-square&logo=github&color=FF00FF" />
 </p>
 
 ---
