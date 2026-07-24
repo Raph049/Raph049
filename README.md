@@ -119,7 +119,8 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raph049&theme=github-dark&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=Raph049&theme=transparent&hide_border=true&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6"/>
 
 </p>
 
