@@ -27,14 +27,15 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+         git config user.name "github-actions"
+         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+         git add README.md
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update Naruto quote"
-            git push
-          fi
+         git diff --cached --quiet && exit 0
+
+         git commit -m "Update Naruto quote"
+
+         git pull --rebase origin main
+
+         git push
