@@ -45,6 +45,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
         print("Thanks for dropping by! Let's build something secure together!")
 ---
 
+<!--
 # 🛠 Tech Stack
 
 
@@ -109,6 +110,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 </p>
 
 ---
+-->
 
 
 ## 📂 Featured Projects
