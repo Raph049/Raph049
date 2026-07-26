@@ -203,8 +203,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "If everything seems under control, you're not going fast enough."  
-> **— Mario Andretti**
+> "Sometimes you have to accept that certain things are out of your control."  
+> **— Sebastian Vettel**
 
 <!-- QUOTE_END -->
 
