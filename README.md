@@ -113,6 +113,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 -->
 
 
+<!--
 ## 📂 Featured Projects
 
 ### 🍯 Honeypot
@@ -131,7 +132,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 > Python-powered analytics, automation, and visualization projects that transform raw data into actionable insights.
 
 ---
-
+-->
 # 📈 GitHub Statistics
 
 
