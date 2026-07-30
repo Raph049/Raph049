@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "When people are protecting something truly precious to them, they truly can become as strong as they need to be."  
-> **— Haku**
+> "Winning is the most important. Everything is consequence of that."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
