@@ -146,7 +146,10 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 <!--&bg_color=0f172a-->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raph049&theme=tokyonight&hide_border=true&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6" />
+  <img
+    src="https://streak-stats.demolab.com?user=Raph049&theme=tokyonight&hide_border=true&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6"
+    alt="Raph049's GitHub Streak"
+  />
 </p>
 
 </div>
