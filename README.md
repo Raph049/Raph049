@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The moment you stop learning is the moment you stop improving."  
-> **— Fernando Alonso**
+> "Pressure is a privilege."  
+> **— Lewis Hamilton**
 
 <!-- QUOTE_END -->
 
