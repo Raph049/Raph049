@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "A smile is the easiest way out of a difficult situation."  
-> **— Sakura Haruno**
+> "Fear. That is what we live with. And we live it every day."  
+> **— Neji Hyuga**
 
 <!-- QUOTE_END -->
 
