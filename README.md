@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "It is always sad to part with those whom you love but your companions will help you bear that sadness."  
-> **— Erza Scarlet**
+> "Growth occurs when one goes beyond one's limits."  
+> **— Kakashi Hatake**
 
 <!-- QUOTE_END -->
 
