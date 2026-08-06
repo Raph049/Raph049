@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The true measure of a shinobi is not how they live, but what they do before they die."  
-> **— Jiraiya**
+> "Power is not will. It is the phenomenon of physically making things happen."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
