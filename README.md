@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Everybody is a Ferrari fan. Even if they say they're not, they're Ferrari fans."  
-> **— Sebastian Vettel**
+> "Being second is to be the first of the ones who lose."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
