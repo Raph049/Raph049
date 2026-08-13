@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Being second is to be the first of the ones who lose."  
-> **— Ayrton Senna**
+> "When people are protecting something truly precious to them, they truly can become as strong as they need to be."  
+> **— Haku**
 
 <!-- QUOTE_END -->
 
