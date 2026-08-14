@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "A smile is the easiest way out of a difficult situation."  
-> **— Sakura Haruno**
+> "If everything seems under control, you're not going fast enough."  
+> **— Mario Andretti**
 
 <!-- QUOTE_END -->
 
