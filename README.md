@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Those who cannot acknowledge themselves will eventually fail."  
-> **— Itachi Uchiha**
+> "The best decisions are made under pressure."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
