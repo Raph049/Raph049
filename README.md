@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Being second is to be the first of the ones who lose."  
-> **— Ayrton Senna**
+> "People's lives don't end when they die. It ends when they lose faith."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
