@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
-> **— Jiraiya**
+> "It is always sad to part with those whom you love but your companions will help you bear that sadness."  
+> **— Erza Scarlet**
 
 <!-- QUOTE_END -->
 
