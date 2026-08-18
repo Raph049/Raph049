@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "It is always sad to part with those whom you love but your companions will help you bear that sadness."  
-> **— Erza Scarlet**
+> "Power is not will. It is the phenomenon of physically making things happen."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
