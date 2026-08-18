@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Power is not will. It is the phenomenon of physically making things happen."  
-> **— Madara Uchiha**
+> "When people are protecting something truly precious to them, they truly can become as strong as they need to be."  
+> **— Haku**
 
 <!-- QUOTE_END -->
 
