@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The best decisions are made under pressure."  
-> **— Fernando Alonso**
+> "Still I rise."  
+> **— Lewis Hamilton**
 
 <!-- QUOTE_END -->
 
