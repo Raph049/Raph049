@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Hard work is worthless for those that don't believe in themselves."  
-> **— Naruto Uzumaki**
+> "The pain of being alone is completely out of this world."  
+> **— Gaara**
 
 <!-- QUOTE_END -->
 
