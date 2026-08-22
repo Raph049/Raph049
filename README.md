@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Sometimes you have to accept that certain things are out of your control."  
-> **— Sebastian Vettel**
+> "Smooth operator."  
+> **— Carlos Sainz**
 
 <!-- QUOTE_END -->
 
