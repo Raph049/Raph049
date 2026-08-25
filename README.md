@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "People's lives don't end when they die. It ends when they lose faith."  
-> **— Itachi Uchiha**
+> "Sometimes you’ve got to lick the stamp and send it."  
+> **— Daniel Ricciardo**
 
 <!-- QUOTE_END -->
 
