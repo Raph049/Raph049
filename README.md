@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
-> **— Jiraiya**
+> "People's lives don't end when they die. It ends when they lose faith."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
