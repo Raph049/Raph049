@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Sometimes you’ve got to lick the stamp and send it."  
-> **— Daniel Ricciardo**
+> "There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."  
+> **— Makarov Dreyar**
 
 <!-- QUOTE_END -->
 
