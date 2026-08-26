@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."  
-> **— Makarov Dreyar**
+> "Pressure is a privilege."  
+> **— Lewis Hamilton**
 
 <!-- QUOTE_END -->
 
