@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The harder I push, the luckier I get."  
-> **— Ayrton Senna**
+> "Sometimes you’ve got to lick the stamp and send it."  
+> **— Daniel Ricciardo**
 
 <!-- QUOTE_END -->
 
