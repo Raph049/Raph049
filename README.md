@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Pressure is a privilege."  
-> **— Lewis Hamilton**
+> "The harder I push, the luckier I get."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
