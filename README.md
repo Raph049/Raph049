@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Sometimes you’ve got to lick the stamp and send it."  
-> **— Daniel Ricciardo**
+> "After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."  
+> **— Gajeel Redfox**
 
 <!-- QUOTE_END -->
 
