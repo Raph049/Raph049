@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The moment people come to know love, they run the risk of carrying hate."  
-> **— Obito Uchiha**
+> "Growth occurs when one goes beyond one's limits."  
+> **— Kakashi Hatake**
 
 <!-- QUOTE_END -->
 
