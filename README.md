@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Growth occurs when one goes beyond one's limits."  
-> **— Kakashi Hatake**
+> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
