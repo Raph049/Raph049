@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The pain of being alone is completely out of this world."  
-> **— Gaara**
+> "Wake up to reality. Nothing ever goes as planned in this accursed world."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
