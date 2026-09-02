@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Wake up to reality. Nothing ever goes as planned in this accursed world."  
-> **— Madara Uchiha**
+> "A ninja must see beneath the beneath."  
+> **— Kakashi Hatake**
 
 <!-- QUOTE_END -->
 
