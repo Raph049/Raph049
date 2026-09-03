@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "A ninja must see beneath the beneath."  
-> **— Kakashi Hatake**
+> "The moment you stop learning is the moment you stop improving."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
