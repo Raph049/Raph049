@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Those who cannot acknowledge themselves will eventually fail."  
-> **— Itachi Uchiha**
+> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
+> **— Jiraiya**
 
 <!-- QUOTE_END -->
 
