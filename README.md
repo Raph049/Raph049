@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Wherever there is light, there are also shadows."  
-> **— Madara Uchiha**
+> "Those who cannot acknowledge themselves will eventually fail."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
