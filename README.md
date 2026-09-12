@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."  
-> **— Makarov Dreyar**
+> "That morning's dawn was painted a beautiful scarlet, the likes of which I had never seen before. Like the color of Erza's hair, it was warm and passionate...If she could only lift her face a beautiful sky would be spread out before her."  
+> **— Lucy Heartfilia**
 
 <!-- QUOTE_END -->
 
