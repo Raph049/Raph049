@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Fear. That is what we live with. And we live it every day."  
-> **— Neji Hyuga**
+> "The moment people come to know love, they run the risk of carrying hate."  
+> **— Obito Uchiha**
 
 <!-- QUOTE_END -->
 
