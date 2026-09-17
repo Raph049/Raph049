@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
-> **— Ayrton Senna**
+> "The moment you stop learning is the moment you stop improving."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
