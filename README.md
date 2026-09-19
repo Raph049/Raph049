@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "The best decisions are made under pressure."  
-> **— Fernando Alonso**
+> "Being second is to be the first of the ones who lose."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
