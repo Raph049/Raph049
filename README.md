@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Raph049&bg_c
 
 <!-- QUOTE_START -->
 
-> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
-> **— Jiraiya**
+> "Everybody is a Ferrari fan. Even if they say they're not, they're Ferrari fans."  
+> **— Sebastian Vettel**
 
 <!-- QUOTE_END -->
 
