@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Sometimes you have to accept that certain things are out of your control."  
-> **— Sebastian Vettel**
+> "A smile is the easiest way out of a difficult situation."  
+> **— Sakura Haruno**
 
 <!-- QUOTE_END -->
 
