@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The pain of being alone is completely out of this world."  
-> **— Gaara**
+> "Sometimes you have to accept that certain things are out of your control."  
+> **— Sebastian Vettel**
 
 <!-- QUOTE_END -->
 
