@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Growth occurs when one goes beyond one's limits."  
-> **— Kakashi Hatake**
+> "Pressure is a privilege."  
+> **— Lewis Hamilton**
 
 <!-- QUOTE_END -->
 
