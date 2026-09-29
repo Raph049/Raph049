@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Being second is to be the first of the ones who lose."  
-> **— Ayrton Senna**
+> "Hard work is worthless for those that don't believe in themselves."  
+> **— Naruto Uzumaki**
 
 <!-- QUOTE_END -->
 
