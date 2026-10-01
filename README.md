@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The pain of being alone is completely out of this world."  
-> **— Gaara**
+> "When people are protecting something truly precious to them, they truly can become as strong as they need to be."  
+> **— Haku**
 
 <!-- QUOTE_END -->
 
