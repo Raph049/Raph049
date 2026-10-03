@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Growth occurs when one goes beyond one's limits."  
-> **— Kakashi Hatake**
+> "It is always sad to part with those whom you love but your companions will help you bear that sadness."  
+> **— Erza Scarlet**
 
 <!-- QUOTE_END -->
 
