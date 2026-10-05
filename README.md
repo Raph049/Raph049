@@ -210,8 +210,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."  
-> **— Makarov Dreyar**
+> "After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."  
+> **— Gajeel Redfox**
 
 <!-- QUOTE_END -->
 
