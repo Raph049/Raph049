@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The harder I push, the luckier I get."  
-> **— Ayrton Senna**
+> "The best decisions are made under pressure."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
