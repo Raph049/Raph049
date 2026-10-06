@@ -139,15 +139,14 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6" alt="Raph049's GitHub statistics" />
-  
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Raph049's most-used languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Raph049's GitHub statistics" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raph049&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
 </p>
-<!--&bg_color=0f172a-->
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Raph049&theme=tokyonight&hide_border=true&ring=00F5FF&fire=3B82F6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=8B5CF6"
+    src="https://streak-stats.demolab.com?user=Raph049&theme=transparent&hide_border=true&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&currStreakNum=D1D5DB&sideNums=D1D5DB&sideLabels=9CA3AF&dates=8B5CF6"
     alt="Raph049's GitHub Streak"
   />
 </p>
