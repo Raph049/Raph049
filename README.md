@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The best decisions are made under pressure."  
-> **— Fernando Alonso**
+> "Those who cannot acknowledge themselves will eventually fail."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
