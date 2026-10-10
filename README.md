@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment people come to know love, they run the risk of carrying hate."  
-> **— Obito Uchiha**
+> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
+> **— Jiraiya**
 
 <!-- QUOTE_END -->
 
