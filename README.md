@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
-> **— Ayrton Senna**
+> "If everything seems under control, you're not going fast enough."  
+> **— Mario Andretti**
 
 <!-- QUOTE_END -->
 
