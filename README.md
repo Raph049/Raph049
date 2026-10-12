@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "If everything seems under control, you're not going fast enough."  
-> **— Mario Andretti**
+> "A smile is the easiest way out of a difficult situation."  
+> **— Sakura Haruno**
 
 <!-- QUOTE_END -->
 
