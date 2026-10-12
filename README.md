@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "A smile is the easiest way out of a difficult situation."  
-> **— Sakura Haruno**
+> "Those who cannot acknowledge themselves will eventually fail."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
