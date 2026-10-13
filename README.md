@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Those who cannot acknowledge themselves will eventually fail."  
-> **— Itachi Uchiha**
+> "Simply lovely."  
+> **— Max Verstappen**
 
 <!-- QUOTE_END -->
 
