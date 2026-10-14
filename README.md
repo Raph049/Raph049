@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The true measure of a shinobi is not how they live, but what they do before they die."  
-> **— Jiraiya**
+> "Everybody is a Ferrari fan. Even if they say they're not, they're Ferrari fans."  
+> **— Sebastian Vettel**
 
 <!-- QUOTE_END -->
 
