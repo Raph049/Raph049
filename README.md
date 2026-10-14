@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Everybody is a Ferrari fan. Even if they say they're not, they're Ferrari fans."  
-> **— Sebastian Vettel**
+> "Simply lovely."  
+> **— Max Verstappen**
 
 <!-- QUOTE_END -->
 
