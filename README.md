@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Being second is to be the first of the ones who lose."  
-> **— Ayrton Senna**
+> "Sometimes you’ve got to lick the stamp and send it."  
+> **— Daniel Ricciardo**
 
 <!-- QUOTE_END -->
 
