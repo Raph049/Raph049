@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Fear. That is what we live with. And we live it every day."  
-> **— Neji Hyuga**
+> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
