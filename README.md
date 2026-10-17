@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Sometimes you’ve got to lick the stamp and send it."  
-> **— Daniel Ricciardo**
+> "Fear. That is what we live with. And we live it every day."  
+> **— Neji Hyuga**
 
 <!-- QUOTE_END -->
 
