@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."  
-> **— Gajeel Redfox**
+> "Hard work is worthless for those that don't believe in themselves."  
+> **— Naruto Uzumaki**
 
 <!-- QUOTE_END -->
 
