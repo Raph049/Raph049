@@ -2,7 +2,7 @@ import json
 import random
 
 # Load quotes
-with open(".github/quote/naruto-quotes.json", "r", encoding="utf-8") as f:
+with open(".github/quote/quotes.json", "r", encoding="utf-8") as f:
     quotes = json.load(f)
 
 quote = random.choice(quotes)
