@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."  
-> **— Gajeel Redfox**
+> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
+> **— Jiraiya**
 
 <!-- QUOTE_END -->
 
