@@ -1,4 +1,4 @@
-name: Update Naruto Quote
+name: Update Quote
 
 on:
   workflow_dispatch:
