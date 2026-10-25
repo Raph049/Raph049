@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment people come to know love, they run the risk of carrying hate."  
-> **— Obito Uchiha**
+> "If everything seems under control, you're not going fast enough."  
+> **— Mario Andretti**
 
 <!-- QUOTE_END -->
 
