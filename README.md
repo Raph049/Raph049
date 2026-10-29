@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Wherever there is light, there are also shadows."  
-> **— Madara Uchiha**
+> "A smile is the easiest way out of a difficult situation."  
+> **— Sakura Haruno**
 
 <!-- QUOTE_END -->
 
