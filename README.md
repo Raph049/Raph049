@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Knowing what it feels to be in pain is exactly why we try to be kind to others."  
-> **— Jiraiya**
+> "Wherever there is light, there are also shadows."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
