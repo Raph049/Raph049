@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Everybody is a Ferrari fan. Even if they say they're not, they're Ferrari fans."  
-> **— Sebastian Vettel**
+> "If everything seems under control, you're not going fast enough."  
+> **— Mario Andretti**
 
 <!-- QUOTE_END -->
 
