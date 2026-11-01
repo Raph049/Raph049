@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Smooth operator."  
-> **— Carlos Sainz**
+> "Wherever there is light, there are also shadows."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
