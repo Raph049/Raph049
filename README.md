@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Wherever there is light, there are also shadows."  
-> **— Madara Uchiha**
+> "Hard work is worthless for those that don't believe in themselves."  
+> **— Naruto Uzumaki**
 
 <!-- QUOTE_END -->
 
