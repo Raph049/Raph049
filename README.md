@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Hard work is worthless for those that don't believe in themselves."  
-> **— Naruto Uzumaki**
+> "Wake up to reality. Nothing ever goes as planned in this accursed world."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
