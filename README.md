@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Wake up to reality. Nothing ever goes as planned in this accursed world."  
-> **— Madara Uchiha**
+> "Winning is the most important. Everything is consequence of that."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
