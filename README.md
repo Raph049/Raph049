@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment people come to know love, they run the risk of carrying hate."  
-> **— Obito Uchiha**
+> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
