@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "You cannot overtake fifteen cars when it's sunny, but you can when it's raining."  
-> **— Ayrton Senna**
+> "People's lives don't end when they die. It ends when they lose faith."  
+> **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
 
