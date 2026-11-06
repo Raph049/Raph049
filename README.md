@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "People's lives don't end when they die. It ends when they lose faith."  
-> **— Itachi Uchiha**
+> "The moment you stop learning is the moment you stop improving."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
