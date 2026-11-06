@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment you stop learning is the moment you stop improving."  
-> **— Fernando Alonso**
+> "The moment people come to know love, they run the risk of carrying hate."  
+> **— Obito Uchiha**
 
 <!-- QUOTE_END -->
 
