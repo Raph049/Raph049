@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment people come to know love, they run the risk of carrying hate."  
-> **— Obito Uchiha**
+> "Winning is the most important. Everything is consequence of that."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
