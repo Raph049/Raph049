@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "If everything seems under control, you're not going fast enough."  
-> **— Mario Andretti**
+> "That morning's dawn was painted a beautiful scarlet, the likes of which I had never seen before. Like the color of Erza's hair, it was warm and passionate...If she could only lift her face a beautiful sky would be spread out before her."  
+> **— Lucy Heartfilia**
 
 <!-- QUOTE_END -->
 
