@@ -141,7 +141,7 @@ Passionate about building secure software, exploring ethical hacking, and solvin
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raph049&theme=transparent&title_color=00F5FF&text_color=D1D5DB&icon_color=8B5CF6&bg_color=00000000&border_color=00F5FF" alt="Raph049's GitHub statistics" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raph049&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raph049&layout=compact&hide_border=true&theme=transparent&title_color=00F5FF&text_color=D1D5DB" alt="Most-used programming languages on GitHub" />
 </p>
 
 <p align="center">
