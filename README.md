@@ -209,7 +209,7 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Those who cannot acknowledge themselves will eventually fail."  
+> "People's lives don't end when they die. It ends when they lose faith."  
 > **— Itachi Uchiha**
 
 <!-- QUOTE_END -->
