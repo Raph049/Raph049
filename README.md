@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The true measure of a shinobi is not how they live, but what they do before they die."  
-> **— Jiraiya**
+> "Winning is the most important. Everything is consequence of that."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
