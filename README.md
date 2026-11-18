@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Simply lovely."  
-> **— Max Verstappen**
+> "The true measure of a shinobi is not how they live, but what they do before they die."  
+> **— Jiraiya**
 
 <!-- QUOTE_END -->
 
