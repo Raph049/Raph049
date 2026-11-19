@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."  
-> **— Makarov Dreyar**
+> "Growth occurs when one goes beyond one's limits."  
+> **— Kakashi Hatake**
 
 <!-- QUOTE_END -->
 
