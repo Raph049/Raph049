@@ -209,8 +209,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The harder I push, the luckier I get."  
-> **— Ayrton Senna**
+> "Wherever there is light, there are also shadows."  
+> **— Madara Uchiha**
 
 <!-- QUOTE_END -->
 
