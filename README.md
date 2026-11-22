@@ -189,6 +189,10 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://discord.com/users/1284200492465127464">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 <a href="https://tryhackme.com/p/Raph049">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
