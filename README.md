@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Those who cannot acknowledge themselves will eventually fail."  
-> **— Itachi Uchiha**
+> "Sometimes you’ve got to lick the stamp and send it."  
+> **— Daniel Ricciardo**
 
 <!-- QUOTE_END -->
 
