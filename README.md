@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "It is always sad to part with those whom you love but your companions will help you bear that sadness."  
-> **— Erza Scarlet**
+> "Being second is to be the first of the ones who lose."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
