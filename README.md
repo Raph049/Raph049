@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "People's lives don't end when they die. It ends when they lose faith."  
-> **— Itachi Uchiha**
+> "Winning is the most important. Everything is consequence of that."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
