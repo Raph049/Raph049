@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Winning is the most important. Everything is consequence of that."  
-> **— Ayrton Senna**
+> "Still I rise."  
+> **— Lewis Hamilton**
 
 <!-- QUOTE_END -->
 
