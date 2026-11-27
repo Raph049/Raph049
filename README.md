@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "Still I rise."  
-> **— Lewis Hamilton**
+> "The moment you stop learning is the moment you stop improving."  
+> **— Fernando Alonso**
 
 <!-- QUOTE_END -->
 
