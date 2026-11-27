@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The moment you stop learning is the moment you stop improving."  
-> **— Fernando Alonso**
+> "The pain of being alone is completely out of this world."  
+> **— Gaara**
 
 <!-- QUOTE_END -->
 
