@@ -213,8 +213,8 @@ src="https://github-readme-activity-graph-gamma-one.vercel.app/graph?username=Ra
 
 <!-- QUOTE_START -->
 
-> "The pain of being alone is completely out of this world."  
-> **— Gaara**
+> "Being second is to be the first of the ones who lose."  
+> **— Ayrton Senna**
 
 <!-- QUOTE_END -->
 
